@@ -25,11 +25,8 @@ export default function Home({ allPostsData }) {
         <p>
           This is a basic blog app built on React with Next.js which covers
           static generation, server-side rendering, and pre-rendering.{" "}
-          <a href="https://nextjs.org/learn">
-            Click here to learn Next.js, a powerful framework for creating
-            powerfully performant React apps.
-          </a>
-          .
+          <a href="https://nextjs.org/learn">Click here to learn Next.js</a>, a
+          powerful framework for creating powerfully performant React apps. .
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
