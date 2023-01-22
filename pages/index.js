@@ -24,7 +24,7 @@ export default function Home({ allPostsData }) {
         <p>{`Opera singer turned front end web developer (React, Next.js, Tailwind, MUI)`}</p>
         <p>
           This is a basic blog app built on React with Next.js which covers
-          fundamentals such as static generation and server-side rendering{" "}
+          fundamentals such as static generation and server-side rendering. {" "}
           <a href="https://nextjs.org/learn">Click here to learn Next.js</a>, a
           powerful framework for creating powerfully performant React apps. .
         </p>
